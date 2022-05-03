@@ -33,7 +33,7 @@ function manageAttendance() {
 }
 ```
 
-**Enjoy using this spreadsheet!*
+**Enjoy using this spreadsheet!**
 
 ## License
 MIT
