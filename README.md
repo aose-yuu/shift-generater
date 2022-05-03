@@ -15,7 +15,7 @@ Please use the shared link below to open the spreadsheet and make a copy.
 ## Extra 
 For those who wish to perform simple time and attendance management, place the following code anywhere in main.js and create a button to activate the sheet and function.
 
-```
+```javascript:main.js
 function manageAttendance() {
   const entrySheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('記入');
   const logSheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('ログ');
