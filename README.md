@@ -3,7 +3,7 @@ GAS script for spreadsheets to quickly create shift tables.<br>
 Please use the shared link below to open the spreadsheet and make a copy.
 
 ## SpreadSheet
-[shift-generater](https://docs.google.com/spreadsheets/d/1qkNtNverPbvejoD_IbA56ZMglplo94qfhrK-I5fJquo/edit?usp=sharing)
+[shift-generater](https://docs.google.com/spreadsheets/d/18PYbOXrRExwwhnOL5MUdq_xH1ioKewH-Mi-3fPOeEGc/edit?usp=sharing)
 
 ## How to use
 1. Duplicate the spreadsheet below in your local environment.
